@@ -1,0 +1,86 @@
+const reset = {
+  margin: 0,
+  padding: 0,
+  boxSizing: 'border-box',
+};
+
+export default {
+  'Object': {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    lineHeight: '1',
+    paddingLeft: '1em',
+    position: 'relative',
+  },
+  Arrow: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    display: 'block',
+    width: '.5em',
+    height: '.3em',
+    position: 'absolute',
+    top: '.2em',
+    left: 0,
+    borderLeft: '.5em solid #555',
+    borderTop: '.3em solid transparent',
+    borderBottom: '.3em solid transparent',
+    transform: 'rotate(90deg)',
+  },
+  Content: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    width: '100%',
+  },
+  Value: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    paddingLeft: '1em',
+  },
+  Property: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    marginBottom: '.5em',
+    cursor: 'pointer',
+  },
+  Property_Key: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: '#708',
+  },
+  Property_Colon: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: '#555',
+  },
+  Property_Type: {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: '#997',
+  },
+  'Property_Type-number': {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: 'rgb(50, 0, 255)',
+  },
+  'Property_Type-string': {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: '#a11',
+  },
+  'Property_Type-boolean': {
+    margin: 0,
+    padding: 0,
+    boxSizing: 'border-box',
+    color: 'rgb(50, 0, 255)',
+  },
+};

@@ -1,12 +1,25 @@
 {
   "name": "dom-json-tree",
   "version": "1.0.0",
-  "description": "",
+  "description": "Visualize the JSON object to the DOM.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
   },
-  "keywords": [],
+  "keywords": [
+    "json",
+    "visualize",
+    "superfine"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^0.63.4",
+    "rollup-plugin-buble": "^0.19.2",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-uglify": "^4.0.0",
+    "superfine": "^6.0.1"
+  }
 }
