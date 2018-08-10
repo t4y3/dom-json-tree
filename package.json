@@ -1,6 +1,6 @@
 {
   "name": "dom-json-tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Visualize the JSON object to the DOM.",
   "main": "dist/index.js",
   "scripts": {
