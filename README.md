@@ -7,7 +7,7 @@ Visualize the JSON object to the DOM.
 import DomJsonTree from 'dom-json-tree';
 
 let djt = new DomJsonTree(json, document.body);
-djt.rendar();
+djt.render();
 ```
 
 ## Demo

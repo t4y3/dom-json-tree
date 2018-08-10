@@ -1,4 +1,6 @@
-let o = {
+import DomJsonTree from './index.js';
+
+const json = {
   "_id": "5b542497968fbe5476380045",
   "index": 0,
   "guid": "075e6597-b3ee-4263-9b0d-fb4e8d78a8a2",
@@ -56,5 +58,9 @@ let o = {
   "favoriteFruit": "strawberry"
 };
 
-let djt = new DomJsonTree(o, document.body);
-djt.render();
+it('renders correctly', () => {
+  let djt = new DomJsonTree(json, document.body);
+  djt.render();
+  const node = djt.node;
+  expect(node).toMatchSnapshot();
+});

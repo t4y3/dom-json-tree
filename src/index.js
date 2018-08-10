@@ -12,10 +12,10 @@ export default class DomJsonTree {
   }
 
   /**
-   * [rendar description]
+   * [render description]
    * @return {[type]} [description]
    */
-  rendar() {
+  render() {
     this._update();
   }
 
