@@ -5,10 +5,29 @@ import styles from './style.css';
  * [DomJsonTree description]
  */
 export default class DomJsonTree {
-  constructor(json, container) {
+  constructor(json, container, options = {}) {
     this.json = json;
     this.container = container;
     this.node;
+
+    if (options.colors) {
+      const { colors } = options;
+      if (colors.key) {
+        styles['Property_Key'].color = colors.key;
+      }
+      if (colors.type) {
+        styles['Property_Type'].color = colors.type;
+      }
+      if (colors.typeNumber) {
+        styles['Property_Type-number'].color = colors.typeNumber;
+      }
+      if (colors.typeString) {
+        styles['Property_Type-string'].color = colors.typeString;
+      }
+      if (colors.typeBoolean) {
+        styles['Property_Type-boolean'].color = colors.typeBoolean;
+      }
+    }
   }
 
   /**

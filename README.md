@@ -10,6 +10,20 @@ let djt = new DomJsonTree(json, document.body);
 djt.render();
 ```
 
+### Options
+```js
+let djt = new DomJsonTree(json, document.body, {
+  colors: {
+    key: '#000',
+    colon: '#f00',
+    type: '#f00',
+    typeNumber: '#000',
+    typeString: '#f00',
+    typeBoolean: '#666',
+  }
+});
+```
+
 ## Demo
 - https://codesandbox.io/s/82z7w16lw0
 
