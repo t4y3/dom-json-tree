@@ -14,4 +14,4 @@ djt.render();
 - https://codesandbox.io/s/82z7w16lw0
 
 ## Screenshot
-![_users_y41132_scm_github_etc_dom-json-tree_test_index html](https://user-images.githubusercontent.com/9010553/43887035-859e40ea-9bf8-11e8-8c64-30e1d509dd46.png)
+![_users_y41132_scm_github_etc_dom-json-tree_test_index html](https://user-images.githubusercontent.com/9010553/56467655-b18baa80-645c-11e9-8329-295006a1f7ff.png)
