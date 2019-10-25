@@ -3558,6 +3558,1116 @@ Object {
         Object {
           "children": Array [
             Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": example_with_null,
+                  "key": null,
+                  "name": "example_with_null",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Key"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+              >
+                example_with_null
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Key",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "color": "#708",
+                  "margin": 0,
+                  "padding": 0,
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": : ,
+                  "key": null,
+                  "name": ": ",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Colon"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+              >
+                : 
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Colon",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "color": "#555",
+                  "margin": 0,
+                  "padding": 0,
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": null,
+                  "key": null,
+                  "name": "null",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Type"
+              >
+                null
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Type",
+                "style": undefined,
+              },
+              "type": 0,
+            },
+          ],
+          "element": <div
+            class="djt-Property"
+            style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+          >
+            <span
+              class="djt-Property_Key"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+            >
+              example_with_null
+            </span>
+            <span
+              class="djt-Property_Colon"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+            >
+              : 
+            </span>
+            <span
+              class="djt-Property_Type"
+            >
+              null
+            </span>
+          </div>,
+          "key": undefined,
+          "name": "div",
+          "props": Object {
+            "class": "djt-Property",
+            "style": Object {
+              "boxSizing": "border-box",
+              "cursor": "pointer",
+              "margin": 0,
+              "marginBottom": ".5em",
+              "padding": 0,
+            },
+          },
+          "type": 0,
+        },
+      ],
+      "element": <div
+        class="djt-object"
+        style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+      >
+        <div
+          class="djt-Property"
+          style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+        >
+          <span
+            class="djt-Property_Key"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+          >
+            example_with_null
+          </span>
+          <span
+            class="djt-Property_Colon"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+          >
+            : 
+          </span>
+          <span
+            class="djt-Property_Type"
+          >
+            null
+          </span>
+        </div>
+      </div>,
+      "key": "example_with_null",
+      "name": "div",
+      "props": Object {
+        "class": "djt-object",
+        "key": "example_with_null",
+        "style": Object {
+          "boxSizing": "border-box",
+          "lineHeight": "1",
+          "margin": 0,
+          "padding": 0,
+          "paddingLeft": "1em",
+          "position": "relative",
+        },
+      },
+      "type": 0,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [],
+              "element": ,
+              "key": null,
+              "name": "",
+              "props": Object {},
+              "type": 2,
+            },
+          ],
+          "element": <span
+            class="djt-Arrow"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; display: block; width: .5em; height: .3em; position: absolute; top: .2em; left: 0px; border-left: .5em solid #555; border-top: .3em solid transparent; border-bottom: .3em solid transparent; transform: rotate(90deg);"
+          >
+            
+          </span>,
+          "key": undefined,
+          "name": "span",
+          "props": Object {
+            "class": "djt-Arrow",
+            "style": Object {
+              "borderBottom": ".3em solid transparent",
+              "borderLeft": ".5em solid #555",
+              "borderTop": ".3em solid transparent",
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": ".3em",
+              "left": 0,
+              "margin": 0,
+              "padding": 0,
+              "position": "absolute",
+              "top": ".2em",
+              "transform": "rotate(90deg)",
+              "width": ".5em",
+            },
+          },
+          "type": 0,
+        },
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": example_with_null_inside,
+                  "key": null,
+                  "name": "example_with_null_inside",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Key"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+              >
+                example_with_null_inside
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Key",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "color": "#708",
+                  "margin": 0,
+                  "padding": 0,
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": : ,
+                  "key": null,
+                  "name": ": ",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Colon"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+              >
+                : 
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Colon",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "color": "#555",
+                  "margin": 0,
+                  "padding": 0,
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [],
+                  "element": Object,
+                  "key": null,
+                  "name": "Object",
+                  "props": Object {},
+                  "type": 2,
+                },
+              ],
+              "element": <span
+                class="djt-Property_Type"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(153, 153, 119);"
+              >
+                Object
+              </span>,
+              "key": undefined,
+              "name": "span",
+              "props": Object {
+                "class": "djt-Property_Type",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "color": "#997",
+                  "margin": 0,
+                  "padding": 0,
+                },
+              },
+              "type": 0,
+            },
+          ],
+          "element": <div
+            class="djt-Property"
+            data-djt-toggle="open"
+            style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+          >
+            <span
+              class="djt-Property_Key"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+            >
+              example_with_null_inside
+            </span>
+            <span
+              class="djt-Property_Colon"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+            >
+              : 
+            </span>
+            <span
+              class="djt-Property_Type"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(153, 153, 119);"
+            >
+              Object
+            </span>
+          </div>,
+          "key": undefined,
+          "name": "div",
+          "props": Object {
+            "class": "djt-Property",
+            "data-djt-toggle": "open",
+            "onclick": [Function],
+            "style": Object {
+              "boxSizing": "border-box",
+              "cursor": "pointer",
+              "margin": 0,
+              "marginBottom": ".5em",
+              "padding": 0,
+            },
+          },
+          "type": 0,
+        },
+        Object {
+          "children": Array [
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": key,
+                          "key": null,
+                          "name": "key",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Key"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                      >
+                        key
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Key",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#708",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": : ,
+                          "key": null,
+                          "name": ": ",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Colon"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                      >
+                        : 
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Colon",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#555",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": "value",
+                          "key": null,
+                          "name": "\\"value\\"",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Type"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+                      >
+                        "value"
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Type",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#a11",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                  ],
+                  "element": <div
+                    class="djt-Property"
+                    style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                  >
+                    <span
+                      class="djt-Property_Key"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                    >
+                      key
+                    </span>
+                    <span
+                      class="djt-Property_Colon"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                    >
+                      : 
+                    </span>
+                    <span
+                      class="djt-Property_Type"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+                    >
+                      "value"
+                    </span>
+                  </div>,
+                  "key": undefined,
+                  "name": "div",
+                  "props": Object {
+                    "class": "djt-Property",
+                    "style": Object {
+                      "boxSizing": "border-box",
+                      "cursor": "pointer",
+                      "margin": 0,
+                      "marginBottom": ".5em",
+                      "padding": 0,
+                    },
+                  },
+                  "type": 0,
+                },
+              ],
+              "element": <div
+                class="djt-object"
+                style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+              >
+                <div
+                  class="djt-Property"
+                  style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                >
+                  <span
+                    class="djt-Property_Key"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                  >
+                    key
+                  </span>
+                  <span
+                    class="djt-Property_Colon"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                  >
+                    : 
+                  </span>
+                  <span
+                    class="djt-Property_Type"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+                  >
+                    "value"
+                  </span>
+                </div>
+              </div>,
+              "key": "key",
+              "name": "div",
+              "props": Object {
+                "class": "djt-object",
+                "key": "key",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "lineHeight": "1",
+                  "margin": 0,
+                  "padding": 0,
+                  "paddingLeft": "1em",
+                  "position": "relative",
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": key2,
+                          "key": null,
+                          "name": "key2",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Key"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                      >
+                        key2
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Key",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#708",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": : ,
+                          "key": null,
+                          "name": ": ",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Colon"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                      >
+                        : 
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Colon",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#555",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": 199,
+                          "key": null,
+                          "name": "199",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Type"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+                      >
+                        199
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Type",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "rgb(50, 0, 255)",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                  ],
+                  "element": <div
+                    class="djt-Property"
+                    style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                  >
+                    <span
+                      class="djt-Property_Key"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                    >
+                      key2
+                    </span>
+                    <span
+                      class="djt-Property_Colon"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                    >
+                      : 
+                    </span>
+                    <span
+                      class="djt-Property_Type"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+                    >
+                      199
+                    </span>
+                  </div>,
+                  "key": undefined,
+                  "name": "div",
+                  "props": Object {
+                    "class": "djt-Property",
+                    "style": Object {
+                      "boxSizing": "border-box",
+                      "cursor": "pointer",
+                      "margin": 0,
+                      "marginBottom": ".5em",
+                      "padding": 0,
+                    },
+                  },
+                  "type": 0,
+                },
+              ],
+              "element": <div
+                class="djt-object"
+                style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+              >
+                <div
+                  class="djt-Property"
+                  style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                >
+                  <span
+                    class="djt-Property_Key"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                  >
+                    key2
+                  </span>
+                  <span
+                    class="djt-Property_Colon"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                  >
+                    : 
+                  </span>
+                  <span
+                    class="djt-Property_Type"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+                  >
+                    199
+                  </span>
+                </div>
+              </div>,
+              "key": "key2",
+              "name": "div",
+              "props": Object {
+                "class": "djt-object",
+                "key": "key2",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "lineHeight": "1",
+                  "margin": 0,
+                  "padding": 0,
+                  "paddingLeft": "1em",
+                  "position": "relative",
+                },
+              },
+              "type": 0,
+            },
+            Object {
+              "children": Array [
+                Object {
+                  "children": Array [
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": key3,
+                          "key": null,
+                          "name": "key3",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Key"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                      >
+                        key3
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Key",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#708",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": : ,
+                          "key": null,
+                          "name": ": ",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Colon"
+                        style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                      >
+                        : 
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Colon",
+                        "style": Object {
+                          "boxSizing": "border-box",
+                          "color": "#555",
+                          "margin": 0,
+                          "padding": 0,
+                        },
+                      },
+                      "type": 0,
+                    },
+                    Object {
+                      "children": Array [
+                        Object {
+                          "children": Array [],
+                          "element": null,
+                          "key": null,
+                          "name": "null",
+                          "props": Object {},
+                          "type": 2,
+                        },
+                      ],
+                      "element": <span
+                        class="djt-Property_Type"
+                      >
+                        null
+                      </span>,
+                      "key": undefined,
+                      "name": "span",
+                      "props": Object {
+                        "class": "djt-Property_Type",
+                        "style": undefined,
+                      },
+                      "type": 0,
+                    },
+                  ],
+                  "element": <div
+                    class="djt-Property"
+                    style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                  >
+                    <span
+                      class="djt-Property_Key"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                    >
+                      key3
+                    </span>
+                    <span
+                      class="djt-Property_Colon"
+                      style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                    >
+                      : 
+                    </span>
+                    <span
+                      class="djt-Property_Type"
+                    >
+                      null
+                    </span>
+                  </div>,
+                  "key": undefined,
+                  "name": "div",
+                  "props": Object {
+                    "class": "djt-Property",
+                    "style": Object {
+                      "boxSizing": "border-box",
+                      "cursor": "pointer",
+                      "margin": 0,
+                      "marginBottom": ".5em",
+                      "padding": 0,
+                    },
+                  },
+                  "type": 0,
+                },
+              ],
+              "element": <div
+                class="djt-object"
+                style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+              >
+                <div
+                  class="djt-Property"
+                  style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+                >
+                  <span
+                    class="djt-Property_Key"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                  >
+                    key3
+                  </span>
+                  <span
+                    class="djt-Property_Colon"
+                    style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                  >
+                    : 
+                  </span>
+                  <span
+                    class="djt-Property_Type"
+                  >
+                    null
+                  </span>
+                </div>
+              </div>,
+              "key": "key3",
+              "name": "div",
+              "props": Object {
+                "class": "djt-object",
+                "key": "key3",
+                "style": Object {
+                  "boxSizing": "border-box",
+                  "lineHeight": "1",
+                  "margin": 0,
+                  "padding": 0,
+                  "paddingLeft": "1em",
+                  "position": "relative",
+                },
+              },
+              "type": 0,
+            },
+          ],
+          "element": <div
+            class="djt-Value"
+            style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box;"
+          >
+            <div
+              class="djt-object"
+              style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+            >
+              <div
+                class="djt-Property"
+                style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+              >
+                <span
+                  class="djt-Property_Key"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                >
+                  key
+                </span>
+                <span
+                  class="djt-Property_Colon"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                >
+                  : 
+                </span>
+                <span
+                  class="djt-Property_Type"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+                >
+                  "value"
+                </span>
+              </div>
+            </div>
+            <div
+              class="djt-object"
+              style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+            >
+              <div
+                class="djt-Property"
+                style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+              >
+                <span
+                  class="djt-Property_Key"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                >
+                  key2
+                </span>
+                <span
+                  class="djt-Property_Colon"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                >
+                  : 
+                </span>
+                <span
+                  class="djt-Property_Type"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+                >
+                  199
+                </span>
+              </div>
+            </div>
+            <div
+              class="djt-object"
+              style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+            >
+              <div
+                class="djt-Property"
+                style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+              >
+                <span
+                  class="djt-Property_Key"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+                >
+                  key3
+                </span>
+                <span
+                  class="djt-Property_Colon"
+                  style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+                >
+                  : 
+                </span>
+                <span
+                  class="djt-Property_Type"
+                >
+                  null
+                </span>
+              </div>
+            </div>
+          </div>,
+          "key": undefined,
+          "name": "div",
+          "props": Object {
+            "class": "djt-Value",
+            "style": Object {
+              "boxSizing": "border-box",
+              "margin": 0,
+              "padding": 0,
+              "paddingLeft": "1em",
+            },
+          },
+          "type": 0,
+        },
+      ],
+      "element": <div
+        class="djt-object"
+        style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+      >
+        <span
+          class="djt-Arrow"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; display: block; width: .5em; height: .3em; position: absolute; top: .2em; left: 0px; border-left: .5em solid #555; border-top: .3em solid transparent; border-bottom: .3em solid transparent; transform: rotate(90deg);"
+        >
+          
+        </span>
+        <div
+          class="djt-Property"
+          data-djt-toggle="open"
+          style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+        >
+          <span
+            class="djt-Property_Key"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+          >
+            example_with_null_inside
+          </span>
+          <span
+            class="djt-Property_Colon"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+          >
+            : 
+          </span>
+          <span
+            class="djt-Property_Type"
+            style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(153, 153, 119);"
+          >
+            Object
+          </span>
+        </div>
+        <div
+          class="djt-Value"
+          style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box;"
+        >
+          <div
+            class="djt-object"
+            style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+          >
+            <div
+              class="djt-Property"
+              style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+            >
+              <span
+                class="djt-Property_Key"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+              >
+                key
+              </span>
+              <span
+                class="djt-Property_Colon"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+              >
+                : 
+              </span>
+              <span
+                class="djt-Property_Type"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+              >
+                "value"
+              </span>
+            </div>
+          </div>
+          <div
+            class="djt-object"
+            style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+          >
+            <div
+              class="djt-Property"
+              style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+            >
+              <span
+                class="djt-Property_Key"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+              >
+                key2
+              </span>
+              <span
+                class="djt-Property_Colon"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+              >
+                : 
+              </span>
+              <span
+                class="djt-Property_Type"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+              >
+                199
+              </span>
+            </div>
+          </div>
+          <div
+            class="djt-object"
+            style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+          >
+            <div
+              class="djt-Property"
+              style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+            >
+              <span
+                class="djt-Property_Key"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+              >
+                key3
+              </span>
+              <span
+                class="djt-Property_Colon"
+                style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+              >
+                : 
+              </span>
+              <span
+                class="djt-Property_Type"
+              >
+                null
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>,
+      "key": "example_with_null_inside",
+      "name": "div",
+      "props": Object {
+        "class": "djt-object",
+        "key": "example_with_null_inside",
+        "style": Object {
+          "boxSizing": "border-box",
+          "lineHeight": "1",
+          "margin": 0,
+          "padding": 0,
+          "paddingLeft": "1em",
+          "position": "relative",
+        },
+      },
+      "type": 0,
+    },
+    Object {
+      "children": Array [
+        Object {
+          "children": Array [
+            Object {
               "children": Array [],
               "element": ,
               "key": null,
@@ -11435,6 +12545,156 @@ Object {
         >
           "-144.238087"
         </span>
+      </div>
+    </div>
+    <div
+      class="djt-object"
+      style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+    >
+      <div
+        class="djt-Property"
+        style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+      >
+        <span
+          class="djt-Property_Key"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+        >
+          example_with_null
+        </span>
+        <span
+          class="djt-Property_Colon"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+        >
+          : 
+        </span>
+        <span
+          class="djt-Property_Type"
+        >
+          null
+        </span>
+      </div>
+    </div>
+    <div
+      class="djt-object"
+      style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+    >
+      <span
+        class="djt-Arrow"
+        style="margin: 0px; padding: 0px; box-sizing: border-box; display: block; width: .5em; height: .3em; position: absolute; top: .2em; left: 0px; border-left: .5em solid #555; border-top: .3em solid transparent; border-bottom: .3em solid transparent; transform: rotate(90deg);"
+      >
+        
+      </span>
+      <div
+        class="djt-Property"
+        data-djt-toggle="open"
+        style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+      >
+        <span
+          class="djt-Property_Key"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+        >
+          example_with_null_inside
+        </span>
+        <span
+          class="djt-Property_Colon"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+        >
+          : 
+        </span>
+        <span
+          class="djt-Property_Type"
+          style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(153, 153, 119);"
+        >
+          Object
+        </span>
+      </div>
+      <div
+        class="djt-Value"
+        style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box;"
+      >
+        <div
+          class="djt-object"
+          style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+        >
+          <div
+            class="djt-Property"
+            style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+          >
+            <span
+              class="djt-Property_Key"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+            >
+              key
+            </span>
+            <span
+              class="djt-Property_Colon"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+            >
+              : 
+            </span>
+            <span
+              class="djt-Property_Type"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(170, 17, 17);"
+            >
+              "value"
+            </span>
+          </div>
+        </div>
+        <div
+          class="djt-object"
+          style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+        >
+          <div
+            class="djt-Property"
+            style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+          >
+            <span
+              class="djt-Property_Key"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+            >
+              key2
+            </span>
+            <span
+              class="djt-Property_Colon"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+            >
+              : 
+            </span>
+            <span
+              class="djt-Property_Type"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(50, 0, 255);"
+            >
+              199
+            </span>
+          </div>
+        </div>
+        <div
+          class="djt-object"
+          style="margin: 0px; padding: 0px 0px 0px 1em; box-sizing: border-box; line-height: 1; position: relative;"
+        >
+          <div
+            class="djt-Property"
+            style="margin: 0px 0px .5em 0px; padding: 0px; box-sizing: border-box; cursor: pointer;"
+          >
+            <span
+              class="djt-Property_Key"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(119, 0, 136);"
+            >
+              key3
+            </span>
+            <span
+              class="djt-Property_Colon"
+              style="margin: 0px; padding: 0px; box-sizing: border-box; color: rgb(85, 85, 85);"
+            >
+              : 
+            </span>
+            <span
+              class="djt-Property_Type"
+            >
+              null
+            </span>
+          </div>
+        </div>
       </div>
     </div>
     <div
