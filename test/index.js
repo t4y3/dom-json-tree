@@ -19,6 +19,12 @@ let o = {
   "registered": "Friday, July 17, 2015 1:45 PM",
   "latitude": "-14.04474",
   "longitude": "-144.238087",
+  "example_with_null": null,
+  "example_with_null_inside": {
+    "key": "value",
+    "key2": 199,
+    "key3": null
+  },
   "tags": [
     "eiusmod",
     "sint",

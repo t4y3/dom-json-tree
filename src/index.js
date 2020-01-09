@@ -72,7 +72,14 @@ export default class DomJsonTree {
   _getKeyTemplate(k, v) {
     if (this._isPrimitiveType(v)) {
       let type = typeof v;
-      let v2 = type == 'string' ? `"${v}"` : v.toString();
+      let v2;
+      if (type == 'string') {
+        v2 = `"${v}"`;
+      } else if (v == null) {
+        v2 = 'null';
+      } else {
+        v2 = v.toString();
+      }
 
       return h('div', { class: 'djt-Property', style: styles['Property'] }, [
         h(
